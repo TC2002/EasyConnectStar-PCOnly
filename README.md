@@ -78,6 +78,8 @@ C85935EE3C7D1C12978B5470F21CF81913142B377D02D5E8F23ACBCA4AAAA09E
 
 ## MSU2 外接小屏
 
+小屏购买参考：[拼多多 MSU2 小屏购买链接](https://mobile.yangkeduo.com/goods2.html?ps=Iz8hEzlhXu)
+
 连接 MSU2 小屏后：
 
 1. 勾选“屏幕显示正确选项”。
