@@ -20,6 +20,7 @@
 ## 下载
 
 - [下载 EasyConnectStar-PCOnly.exe](./EasyConnectStar-PCOnly.exe)
+- [下载彻底退出脚本](./Close-EasyConnectStar-PCOnly.bat)
 
 文件 SHA-256：
 
@@ -41,6 +42,7 @@ C85935EE3C7D1C12978B5470F21CF81913142B377D02D5E8F23ACBCA4AAAA09E
 1. 双击 `EasyConnectStar-PCOnly.exe`。
 2. 程序启动后默认进入 PC 端模式。
 3. 点击窗口关闭按钮时，窗口会隐藏，后台进程继续运行；需要真正退出时使用界面中的“彻底退出”。
+4. 如果窗口已经隐藏，双击 `Close-EasyConnectStar-PCOnly.bat` 可以结束当前电脑上所有同名 PC-only 进程。脚本只匹配 `EasyConnectStar-PCOnly.exe`，不会结束综合版 `EasyConnectStar.exe`。
 
 ## API 配置
 
